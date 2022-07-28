@@ -13,7 +13,6 @@ public class FileRead {
             while(scanner.hasNextLine()){
                 System.out.println(scanner.nextLine());
             }
-
         } catch (Exception e) {
             System.out.println("Error cleared");
         }

@@ -11,6 +11,5 @@ public class FileWrite {
         filewriter.write("Good Morning Sir!");
 
         filewriter.close();
-
     }
 }

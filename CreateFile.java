@@ -12,7 +12,6 @@ public class CreateFile {
             } else {
                 System.out.println("File exists");
             }
-
         } catch (Exception e) {
             System.out.println("Error Checked");
         }
